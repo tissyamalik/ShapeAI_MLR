@@ -1,12 +1,3 @@
-Hi I made this project during the 7 Days Bootcamp on Python and Machine Learning, conducted by <b> SHAPEAI
-</b>.
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
-learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI. <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-5.png"> </a>
-<br>I got to have hands on experience on:
-<li>Python
-<li>Machine Learning
-
 # Regression model and analysis
 In multiple regression, we predicting dependent variable from two or more independent variables e.g. predicting height from weight and age. Linear regression implies that the relationship between the dependent variable and independent variables is linear and thus can be described by a linear plane known as the regression plane. We are in the process of finding a regression plane that fits the maximum number of data points.
 
@@ -51,3 +42,12 @@ R square is 0.52921.
 The <a
 href=
 "https://github.com/tissyamalik/shapeai-mlr-boston-house-pricing/blob/main/predict-price.ipynb">python code</a> python code is available on GitHub
+
+Hi I made this project during the 7 Days Bootcamp on Python and Machine Learning, conducted by <b> SHAPEAI
+</b>.
+The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
+learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI. <br><br>Here's the link for you to watch the sessions as well<br>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-5.png"> </a>
+<br>I got to have hands on experience on:
+<li>Python
+<li>Machine Learning
